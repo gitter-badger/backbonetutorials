@@ -1,6 +1,8 @@
 
 # Backbone Tutorials
 
+[![Join the chat at https://gitter.im/rubenfreitas/backbonetutorials](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rubenfreitas/backbonetutorials?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This site is by no means the definitive guide to backbone.js and all corrections and contributions are welcome.
 
 About Backbone Tutorials:
